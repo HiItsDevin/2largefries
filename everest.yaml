@@ -1,0 +1,5 @@
+- Name: 2largefries
+  Version: 1.0.0
+  Dependencies:
+    - Name: Everest
+      Version: 1.1.0

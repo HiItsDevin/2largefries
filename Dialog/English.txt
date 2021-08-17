@@ -62,10 +62,10 @@
         {silent_trigger 0 Tentacles Appear More}
         EXCUSE ME?
 
-		[MADELINE left surprised]
-		What's going on? What happened?
+	[MADELINE left surprised]
+	What's going on? What happened?
 
-		[BADELINE right freakB pop]
+	[BADELINE right freakB pop]
         {silent_trigger 0 Tentacles Appear moooore}
         I ASKED FOR {~}TWO LARGE FRIES{/~}!
         [BADELINE right freakC pop]
@@ -78,15 +78,15 @@
         {trigger 2 Feather minigame}
 
         [BADELINE right freakBAlt]
-        You're going to {~}think about a feather{/~} to stop me{n}from speaking to the manager?
-		You fool.
+        You're going to {~}think about a feather{/~} to stop me{n}from {~}speaking to the manager{/~}?
+	{*}You fool.{/*}
 
         {trigger 3 Destroy feather minigame}
 
         [BADELINE right freakBAlt]
         {*}THIS IS STUPID{/*}
-		[BADELINE right freakC pop]
-		{*}COULDN'T EVEN GET A SIMPLE ORDER {n}RIGHT{/*}
+	[BADELINE right freakC pop]
+	{*}COULDN'T EVEN GET A SIMPLE ORDER {n}RIGHT{/*}
 
     CH6_THEO_WATCHOUT=
         [THEO left worried]
